@@ -37,7 +37,7 @@
  
 <header>
     <div class="container">
-        <div class="bg-brand text-white rounded-3" style="width: 40px; height:
+        <div class="bg-brand text-white rounded-3" style="width: 40px; height:40px;"></div>
 
             <span class="judul judulmain"><i>TOKO</I></SPAN><SPAN CLASS="JUDUL sub">andhika<span>
 
